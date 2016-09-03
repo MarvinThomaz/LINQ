@@ -1,0 +1,5 @@
+/home/mtn/LinqCapacitacao/LinqCapacitacao/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mtn/LinqCapacitacao/LinqCapacitacao/bin/Debug/LinqCapacitacao.exe.mdb
+/home/mtn/LinqCapacitacao/LinqCapacitacao/bin/Debug/LinqCapacitacao.exe
+/home/mtn/LinqCapacitacao/LinqCapacitacao/obj/x86/Debug/LinqCapacitacao.exe
+/home/mtn/LinqCapacitacao/LinqCapacitacao/obj/x86/Debug/LinqCapacitacao.exe.mdb
